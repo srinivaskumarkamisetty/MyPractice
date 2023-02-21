@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.858">
+    <testcase classname="Test Nop Commerce Demo" name="Verify Email textbox with invalid format" time="8.433">
+        <system-out><![CDATA[Given user need to be on NopDemo Homepage...................................passed
+When user enter invalid email format........................................passed
+Then wrong email message must be visible....................................passed
+And close the browser.......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
